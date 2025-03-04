@@ -1,9 +1,7 @@
-# Estimation de l’espérance de vie dans les pays en développement
-
 # 📊 Estimation de l’espérance de vie dans les pays en développement  
 **Projet d’économétrie du risque - Analyse des données de panel sous Stata**  
 
-🔗 **[Accéder à l’étude complète](#)** *(Remplace `#` par un lien vers le document final ou une page de présentation)*  
+🔗 **[Accéder à l’étude complète](main/projet.pdf)** 
 
 ---
 
